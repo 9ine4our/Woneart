@@ -1,0 +1,37 @@
+body {
+                font-family: "Quicksand",sans-serif
+            }
+
+            body {
+                background-color: #0a0909
+            }
+
+            header.main .hbox,#contenedor,footer.main .fbox {
+                max-width: 1500px
+            }
+
+            a,.home-blog-post .entry-date .date,.top-imdb-item:hover>.title a,.module .content .items .item .data h3 a:hover,.head-main-nav ul.main-header li:hover>a,.login_box .box a.register {
+                color: #e50914
+            }
+
+            .nav_items_module a.btn:hover,.pagination span.current,.w_item_b a:hover>.data .wextra b:before,.comment-respond h3:before,footer.main .fbox .fmenu ul li a:hover {
+                color: #e50914
+            }
+
+            header.main .hbox .search form button[type=submit]:hover,.loading,#seasons .se-c .se-a ul.episodios li .episodiotitle a:hover,.sgeneros a:hover,.page_user nav.user ul li a:hover {
+                color: #e50914
+            }
+
+            footer.main .fbox .fmenu ul li.current-menu-item a,.posts .meta .autor i,.pag_episodes .item a:hover,a.link_a:hover,ul.smenu li a:hover {
+                color: #e50914
+            }
+
+            header.responsive .nav a.active:before,header.responsive .search a.active:before,.dtuser a.clicklogin:hover,.menuresp .menu ul.resp li a:hover,.menuresp .menu ul.resp li ul.sub-menu li a:hover {
+                color: #e50914
+            }
+    a:hover{
+    text-decoration: none;
+}
+#dt_contenedor {
+                background-color: #0a0909
+            }
